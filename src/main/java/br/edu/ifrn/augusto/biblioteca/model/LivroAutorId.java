@@ -34,7 +34,6 @@ public class LivroAutorId implements Serializable {
         this.autorId = autorId;
     }
 
-    // equals e hashCode corretos
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
