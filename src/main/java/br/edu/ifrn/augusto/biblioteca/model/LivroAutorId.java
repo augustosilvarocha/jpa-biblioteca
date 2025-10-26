@@ -17,7 +17,6 @@ public class LivroAutorId implements Serializable {
         this.autorId = autorId;
     }
 
-    // Getters e Setters
     public Long getLivroId() {
         return this.livroId;
     }
